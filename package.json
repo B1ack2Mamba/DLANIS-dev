@@ -34,6 +34,7 @@
         "@tailwindcss/postcss": "^4.1.14",
         "@types/bn.js": "^5.2.0",
         "@types/node": "^20.3.1",
+        "@types/node-fetch": "^2.6.13",
         "@types/react": "^18.2.7",
         "@types/react-dom": "^18.2.4",
         "autoprefixer": "^10.4.21",
