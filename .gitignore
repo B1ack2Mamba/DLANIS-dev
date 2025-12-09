@@ -6,3 +6,6 @@ out
 npm-debug.log*
 yarn-error.log*
 pnpm-lock.yaml
+.env
+.env.local
+.env.*.local
