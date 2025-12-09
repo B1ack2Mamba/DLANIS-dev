@@ -1,0 +1,45 @@
+{
+    "name": "my-dapp",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@coral-xyz/anchor": "^0.31.1",
+        "@solana-mobile/wallet-adapter-mobile": "^2.2.3",
+        "@solana/spl-token": "^0.4.14",
+        "@solana/wallet-adapter-base": "^0.9.27",
+        "@solana/wallet-adapter-phantom": "^0.9.28",
+        "@solana/wallet-adapter-react": "^0.15.39",
+        "@solana/wallet-adapter-react-ui": "^0.9.39",
+        "@solana/wallet-adapter-solflare": "^0.6.32",
+        "@solana/wallet-adapter-wallets": "^0.19.37",
+        "@solana/web3.js": "^1.98.4",
+        "bn.js": "^5.2.2",
+        "class-variance-authority": "^0.7.1",
+        "clsx": "^2.1.1",
+        "lucide-react": "^0.544.0",
+        "next": "^15.4.4",
+        "openai": "^6.1.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-toastify": "^11.0.5",
+        "sonner": "^2.0.7",
+        "tailwind-merge": "^3.3.1"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4.1.14",
+        "@types/bn.js": "^5.2.0",
+        "@types/node": "^20.3.1",
+        "@types/react": "^18.2.7",
+        "@types/react-dom": "^18.2.4",
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.6",
+        "tailwindcss": "^4.1.14",
+        "tailwindcss-animate": "^1.0.7",
+        "typescript": "5.1.6"
+    }
+}

@@ -1,0 +1,10 @@
+/mnt/c/DLAN/dlan_stake/target/sbpf-solana-solana/release/deps/spl_token_metadata_interface-953e2f8cca0ae4c4.so: /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/mnt/c/DLAN/dlan_stake/target/sbpf-solana-solana/release/deps/libspl_token_metadata_interface-953e2f8cca0ae4c4.rlib: /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/mnt/c/DLAN/dlan_stake/target/sbpf-solana-solana/release/deps/spl_token_metadata_interface-953e2f8cca0ae4c4.d: /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs /home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs
+
+/home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/lib.rs:
+/home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/error.rs:
+/home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/instruction.rs:
+/home/sanre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-metadata-interface-0.6.0/src/state.rs:

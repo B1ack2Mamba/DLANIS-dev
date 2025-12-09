@@ -1,0 +1,109 @@
+/* styles/temple.css */
+/* ===== œ¿À»“–¿: ÕÂÔÚÛÌ + «ÓÎÓÚÓ ===== */
+:root {
+    --gold: #caa15a;
+    --gold-2: #e1c07a;
+    --ink: #0e141a;
+    --deep: #0a1824;
+}
+
+html, body {
+    background: radial-gradient(1200px 600px at 50% -200px, rgba(202,161,90,.12), transparent 60%), linear-gradient(180deg, var(--ink) 0%, var(--deep) 100%);
+    color: #e8f0f6;
+}
+
+.page {
+    min-height: 100vh;
+    padding: 32px 16px;
+}
+
+.card {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 24px;
+    background: rgba(12,20,28,.72);
+    border: 1px solid rgba(202,161,90,.28);
+    border-radius: 16px;
+    box-shadow: 0 0 0 1px rgba(202,161,90,.15), 0 10px 40px rgba(0,0,0,.45);
+}
+
+.title {
+    font-size: 40px;
+    line-height: 1.1;
+    margin: 0 0 12px;
+    color: var(--gold-2);
+    text-shadow: 0 0 18px rgba(202,161,90,.35);
+}
+
+.subtitle {
+    opacity: .85;
+    margin-bottom: 24px;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+}
+
+.label {
+    font-size: 14px;
+    opacity: .75;
+    margin-bottom: 6px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 10px;
+    color: #f5f7fa;
+    background: rgba(18,26,36,.8);
+    border: 1px solid rgba(202,161,90,.22);
+    outline: none;
+}
+
+    .input:focus {
+        box-shadow: 0 0 0 1px rgba(202,161,90,.4);
+    }
+
+.btn {
+    padding: 10px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid rgba(202,161,90,.35);
+    background: linear-gradient(180deg, rgba(26,40,56,.95) 0%, rgba(14,20,26,.95) 100%);
+    color: #f7f2e0;
+}
+
+    .btn:hover {
+        box-shadow: 0 0 0 1px rgba(202,161,90,.5);
+    }
+
+.btn-primary {
+    background: linear-gradient(180deg, rgba(202,161,90,.25), rgba(202,161,90,.12));
+}
+
+.btn-danger {
+    border-color: #c85a5a;
+    color: #ffecec;
+}
+
+.actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.status {
+    margin-top: 18px;
+    opacity: .9;
+}
+
+.profileBox {
+    margin-top: 18px;
+    padding: 16px;
+    border-radius: 10px;
+    border: 1px dashed rgba(202,161,90,.35);
+    background: rgba(12,20,28,.6);
+}

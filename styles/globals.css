@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Базовые глобальные штрихи */
+:root {
+    color-scheme: dark;
+}
+
+html, body, #__next {
+    height: 100%;
+}
+
+body {
+    background: #0a0a0a;
+    color: #e5e7eb;
+}
+
+/* Можно добавить свои классы/переменные ниже при желании */

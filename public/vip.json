@@ -1,0 +1,16 @@
+[
+    {
+        "wallet": "BVbsgwUhaHsmaRQdCuiZoZZhZDj5KCAdsPiGipBBDtq",
+        "buttons": [ 12 ],
+        "tier": 1,
+        "label": "Core VIP #1",
+        "bonusUsdt": 12
+    },
+    {
+        "wallet": "DAnnyCQycmiKDZSRHtUNRegQZmbUco16RH9BuN1UKQoP",
+        "buttons": [ 21 ],
+        "tier": 2,
+        "label": "Core VIP #2",
+        "bonusUsdt": 0
+    }
+]
